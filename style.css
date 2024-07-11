@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(163, 116, 159);
+}
+
+#form{
+    width: 300px;
+    margin: 30vh auto 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    font-size: 12px;
+}
