@@ -1,5 +1,5 @@
 <div>
-<img src="/img/1"/>
-<img src="/img/2"/>
-<img src="/img/3"/>
+<img src="/images_readme/1.png"/>
+<img src="/images_readme/2.png"/>
+<img src="/images_readme/3.png"/>
 </div>  
