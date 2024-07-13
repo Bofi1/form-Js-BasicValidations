@@ -1,4 +1,4 @@
-alert('hola')
+
 
 // save reference for each element
 let form = document.getElementById('form')
