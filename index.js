@@ -91,7 +91,7 @@ let validateInputs = () =>{
 
     if (password2Value === '') {
         setError(password2, 'Please confirm your password')
-    } else if (password2.value.length !== password) {
+    } else if (password2.value !== password.value) {
         setError(password2, 'Password does not match')
     } else {
         setSuccess(password2)
